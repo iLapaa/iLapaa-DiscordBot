@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iLapaa/iLapaa-DiscordBot.git"
+  },
+  "author": "Lapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLapaa/iLapaa-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/iLapaa/iLapaa-DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
